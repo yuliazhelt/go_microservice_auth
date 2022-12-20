@@ -1,0 +1,6 @@
+app:
+  port: 8006
+  metrics_port: 9300
+
+logger:
+  level: DEBUG
