@@ -7,5 +7,3 @@ Auth service is responsible for checking access rights and storing information a
 Two methods of the service are available to users via http:
 - login
 - verify
-
-[Full API description](https://www.teta.mts.ru/auth)
